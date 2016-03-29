@@ -1,1 +1,3 @@
 Hello, this is a new file added through git on the terminal.
+
+This is an update on the first file added. 
